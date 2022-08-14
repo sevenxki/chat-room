@@ -1,0 +1,75 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1635740373649') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 22px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.iconfont:hover{
+  color: rgb(87, 85, 85);
+}
+.icon-pengyouquan:hover,.icon-shezhi:hover,.icon-yonghu:hover,.icon-liaotian:hover,.icon-tuichu:hover{
+  color: rgb(224, 200, 156);
+}
+.icon-pengyouquan:before {
+  content: "\f0103";
+}
+
+.icon-liaotian:before {
+  content: "\e63c";
+}
+
+.icon-jiahao:before {
+  content: "\e726";
+}
+
+.icon-yonghu:before {
+  content: "\e788";
+}
+
+.icon-sousuo:before {
+  content: "\e86e";
+}
+
+.icon-xiaolian:before {
+  content: "\e8ab";
+}
+
+.icon-shipinbofang:before {
+  content: "\e54d";
+}
+
+.icon-wenjianjia:before {
+  content: "\e552";
+}
+
+.icon-shezhi:before {
+  content: "\e61c";
+}
+
+.icon-yuyin:before {
+  content: "\e8c0";
+}
+
+.icon-nanxing:before {
+  content: "\e616";
+}
+
+.icon-nvxing:before {
+  content: "\e617";
+}
+
+.icon-jiazai_shuaxin:before {
+  content: "\eaf4";
+  font-size:16px;
+}
+
+.icon-tuichu:before {
+  content: "\e668";
+  font-size:18px;
+}
